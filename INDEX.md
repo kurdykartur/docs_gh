@@ -1,0 +1,18 @@
+# Automatic generated documentation tree of `attempt-api` project 
+   - [INDEX.md](INDEX.md)
+   - [README.md](README.md)
+   - __attempt__
+     - [README.md](attempt/README.md)
+     - __attempt/dsadsaaaa__
+       - [README.md](attempt/dsadsaaaa/README.md)
+       - __attempt/dsadsaaaa/xadasdas__
+         - [README.md](attempt/dsadsaaaa/xadasdas/README.md)
+         - [ble.md](attempt/dsadsaaaa/xadasdas/ble.md)
+         - __attempt/dsadsaaaa/xadasdas/dsadsadas__
+           - [README.md](attempt/dsadsaaaa/xadasdas/dsadsadas/README.md)
+     - __attempt/fdsfdsfsd__
+       - [README.md](attempt/fdsfdsfsd/README.md)
+     - __attempt/xadasdas__
+       - [README.md](attempt/xadasdas/README.md)
+       - __attempt/xadasdas/dsadsadas__
+         - [README.md](attempt/xadasdas/dsadsadas/README.md)
