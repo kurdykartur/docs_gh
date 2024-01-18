@@ -1,4 +1,4 @@
-# Automatic generated documentation tree of `attempt-api` project 
+# Automatic generated documentation tree of `api` project 
    - [INDEX.md](INDEX.md)
    - [README.md](README.md)
    - __attempt__
