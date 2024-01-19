@@ -1,5 +1,4 @@
 # Automatic generated documentation tree of `api` project 
-   - [INDEX.md](INDEX.md)
    - [README.md](README.md)
    - __attempt__
      - [README.md](attempt/README.md)
@@ -16,3 +15,4 @@
        - [README.md](attempt/xadasdas/README.md)
        - __attempt/xadasdas/dsadsadas__
          - [README.md](attempt/xadasdas/dsadsadas/README.md)
+   - [index.md](index.md)

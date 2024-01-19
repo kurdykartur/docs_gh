@@ -39,7 +39,7 @@ const printDir = (dir, depth = 0, currDir = '') => {
   });
 };
 
-fs.writeFileSync('INDEX.md', '# Automatic generated documentation tree of `api` project \n');
+fs.writeFileSync('index.md', '# Automatic generated documentation tree of `api` project \n');
 const tree = dirTree('.', { extensions: /\.md$/ });
 
 printDir([tree]);
